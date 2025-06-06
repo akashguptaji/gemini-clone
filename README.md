@@ -20,11 +20,6 @@ A sleek, mini Gemini-style chat interface built using **React**, **Tailwind CSS*
 
 ---
 
-## 📸 Preview
-
-![Gemini Clone Screenshot](https://github.com/akashguptaji/gemini-clone/assets/your-img-preview.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -38,5 +33,4 @@ A sleek, mini Gemini-style chat interface built using **React**, **Tailwind CSS*
 
 ---
 
-## 📁 Folder Structure
 
